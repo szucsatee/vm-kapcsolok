@@ -12,7 +12,7 @@ Az összes elérhető kapcsoló és a teljes, aktuális angol leírás lekérés
 ```cmd
 az vm create --help
 ```
-
+  
 ---
 
 ## Kategóriák és Kapcsolók
